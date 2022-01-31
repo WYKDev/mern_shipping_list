@@ -1,4 +1,4 @@
 {
-   "mongoURI": "mongodb+srv://mongou:mongou@mongou.28o5t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "mongoURI": "mongodb://localhost/myFirstDatabase?retryWrites=true&w=majority",
    "jwtSecret": "mern_secret"
 }

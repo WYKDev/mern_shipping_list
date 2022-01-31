@@ -1,0 +1,22 @@
+.remove-btn {
+   margin-right: 10px;
+}
+
+.list-group-item{
+   transition: opacity .75s ease-in;
+   /* margin: 5px 0; */
+}
+
+.fade-enter,
+.fade-exit.fade-exit-active{ 
+   opacity: 0; 
+}
+
+.fade-exit,
+.fade-enter.fae-enter-active{ 
+   opacity: 1; 
+}
+
+
+
+

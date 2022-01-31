@@ -1,7 +1,7 @@
 # mern_shipping_list
 This is an example project.
 
-Yoou have `node` and `npm` install before you run the below commands in the `terminal`.
+You should already have `node` and `npm` installed in your machine before you run the below commands in the `terminal`.
 
 
 Install Server Dependency

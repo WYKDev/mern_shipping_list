@@ -1,4 +1,4 @@
-# mern_shipping_list
+# mern_shopping_list
 This is an example project.
 
 You should already have `node` and `npm` installed in your machine before you run the below commands in the `terminal`.

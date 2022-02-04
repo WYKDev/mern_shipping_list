@@ -14,7 +14,7 @@ Install Client Dependency
 npm run client-install
 ```
 
-Start the example project in develop 
+Start the example project in development
 ```bash
 npm run dev
 ```

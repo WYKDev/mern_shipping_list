@@ -11,15 +11,18 @@ Install Server Dependency
 npm install
 ```
 
+
 Install Client Dependency
 ```bash
 npm run client-install
 ```
 
+
 Start the MongoDB database
 ```bash
 mongod
 ```
+
 
 Start the example project in development
 ```bash
